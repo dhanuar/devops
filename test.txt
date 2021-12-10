@@ -1,4 +1,8 @@
 super
 cool
 hot
+<<<<<<< Updated upstream
 may
+=======
+supper
+>>>>>>> Stashed changes
