@@ -3,3 +3,4 @@ cool
 hot
 wintter
 summer
+snow
